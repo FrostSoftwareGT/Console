@@ -7,6 +7,8 @@
 <p align="center">
 	<a href="https://github.com/FrostSoftwareGT/Console/releases"><img src="https://img.shields.io/github/v/release/Seralyth/Console?label=version&style=for-the-badge"></a>
 	<a href="https://github.com/FrostSoftwareGT/Console/releases/latest"><img src="https://img.shields.io/github/downloads/Seralyth/Console/latest/Console.dll?style=for-the-badge"></a>
+	<a href="https://discord.gg/wanpf6yFQC"><img src="https://img.shields.io/discord/1505041202397843670?label=discord&style=for-the-badge&color=blueviolet"></a>
+
 </p>
 
 ---
